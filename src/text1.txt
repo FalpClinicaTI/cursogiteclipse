@@ -2,3 +2,6 @@
 Un archivo de prueba de Github
 con todos los elementos necesarios,
 para que podamos estudiar.-
+
+
+Pie de pagina que sí quiero agregar
