@@ -4,8 +4,10 @@ con todos los elementos necesarios,
 para que podamos estudiar.-
 
 
-Pie de pagina que sí quiero agregar
+Pie de pagina que sÃ­ quiero agregar
 
 Prueba en Git
 
 prueba 2
+
+Realizar prueba online en portal de github
